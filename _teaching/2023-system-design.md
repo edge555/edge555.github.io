@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Educator"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "System Design Course"
+permalink: /teaching/2023-system-design
+venue: "Amar iSchool"
+date: 2023-10-10
+location: "Dhaka, Bangladesh"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

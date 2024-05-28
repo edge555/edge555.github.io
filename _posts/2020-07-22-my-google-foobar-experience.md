@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: 'My Google Foobar Experience'
+date: 2020-07-22
+permalink: /posts/2020/07/my-google-foobar-experience/
 tags:
   - cool posts
   - category1
