@@ -1,17 +1,19 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
+title: "Curriculam Vitae"
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* B.Sc. Computer Science and Engineering, Ahsanullah University of Science and Technology, 2022
+## Education 
+-------------
+<b>B.Sc. Computer Science and Engineering</b><br/>
+Ahsanullah University of Science and Technology<br />
+Dhaka, Bangladesh<br />
+<i style='color:#000099;'>**Nov 2017 - April 2022**</i>
 
 Work experience
 ======
@@ -20,38 +22,16 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Jun 2022 - Aug 2022: Software Engineer
-  * Enosis Solutions
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<b>Software Engineer</b><br />
+Enosis Solutions<br />
+Duties included: Merging pull requests<br />
+<i style='color:#000099;'>**June 2022 - August 2022**</i><br/>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Download Full CV](https://edge555.github.io/files/Shoaib_Ahmed_CV.pdf)
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Contact Me
+-------------
+
+**Email:** ahmed.shoaib1729 [at] gmail [dot] com<br /> 
+ <br /> 
+**Website:** [https://edge555.github.io](https://edge555.github.io/) <br />
