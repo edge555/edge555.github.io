@@ -1,12 +1,11 @@
 ---
 title: "Invariant Scattering Transform for Medical Imaging"
 collection: publications
-permalink: /publication/2023-07-07-invariant-scatter-ingransform-for-medical-imaging
+permalink: /publication/2023-07-12-invariant-scatter-ingransform-for-medical-imaging
 excerpt: 'This paper is about the number 1.'
-date: 2023-07-07
+date: 2023-07-12
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/pdf/2307.04771'
 citation: 'Shoaib, You. (2009). &quot;Invariant Scattering Transform for Medical Imaging&quot; <i>Journal 1</i>. 1(1).'
 ---
 
