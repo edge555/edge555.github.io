@@ -7,31 +7,13 @@ redirect_from:
   - /resume
 ---
 
+<span style="color:black; font-family:Georgia;">You can download a pdf copy of my <a href="../files/Shoaib_Ahmed_CV.pdf">[CV]</a> here.</span>
 
-## Education 
--------------
-<b>B.Sc. Computer Science and Engineering</b><br/>
-Ahsanullah University of Science and Technology<br />
-Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**Nov 2017 - April 2022**</i>
+<iframe src="/files/Shoaib_Ahmed_CV.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Work experience
-======
-* Sept 2022 - Current: Software Engineer
-  * Cefalo
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<br>
 
-<b>Software Engineer</b><br />
-Enosis Solutions<br />
-Duties included: Merging pull requests<br />
-<i style='color:#000099;'>**June 2022 - August 2022**</i><br/>
-
-[Download Full CV](https://edge555.github.io/files/Shoaib_Ahmed_CV.pdf)
   
 ## Contact Me
 -------------
-
 **Email:** ahmed.shoaib1729 [at] gmail [dot] com<br /> 
- <br /> 
-**Website:** [https://edge555.github.io](https://edge555.github.io/) <br />

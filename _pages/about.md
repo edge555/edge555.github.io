@@ -7,9 +7,10 @@ redirect_from:
 ---
 Greetings!
 
-I am Shoaib Ahmed, I have completed B.Sc. in Computer Science and Engineering from Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh. I was actively engaged in programming contest in my varsity days, and in research work based on ML, LLM. For a sustainable world, small steps do matter. I believe in computer based solutions ( collaborating with other sectors) for building and leading community in order to fulfill our purposes together.
+<p style="text-align:justify; color:black; font-family:Georgia">I am Shoaib Ahmed, currently working as a Software Enginner at <a href="https://www.cefalo.com/en/">Cefalo</a>. I have completed B.Sc. in Computer Science and Engineering from <a href="https://aust.edu/"> Ahsanullah University of Science and Technology</a> (AUST), Dhaka, Bangladesh. My career goal is to work in leading AI research laboratories. <span style="color:red;">I am looking for a Ph.D. position in Fall 2025</span>.
+</p>
 
-<b>I am open to any Research Collaborations in the field of GenAI, LLM, Virtual Reality, NLP and Bioinformatics. Please reach out if you have anything to discuss or want to work together.</b> <a href="ahmed.shoaib1729@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
+<b>My research works and interests covering areas like LLM, GenAI, Virtual Reality. Please reach out if you have anything to discuss or want to work together.</b> <a href="ahmed.shoaib1729@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
 
 **For additional information, please see the [CV](https://edge555.github.io/cv/) and [Publications](https://edge555.github.io/publications/).**
 
