@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Academic/
+permalink: /academic/
 author_profile: true
 title: "Academic Information"
 ---
@@ -18,9 +18,13 @@ Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 ---------
 ### Educator
 [Amar iSchool](https://amarischool.com/)
-* **Course: System Design Course : Zero to Intermediate** [[Link]](https://amarischool.com/courses/System-Design-Course--Zero-to-Intermediate-64ea1ed8e4b00cb1044f6f2c)
+* **Course:** System Design Course : Zero to Intermediate [[Link]](https://amarischool.com/courses/System-Design-Course--Zero-to-Intermediate-64ea1ed8e4b00cb1044f6f2c)
 * **Topics Covered:** Computer Architecture, Networking Basics, Database, REST API etc
 
 
 ### Competitive Programming Trainer
 CSE Department (AUST), Dhaka, Bangladesh.
+
+### Programming Workshop Conductor
+* System Design Roadmap [[Link]](https://www.facebook.com/amarischool24/videos/915637786668317)
+* Competitive Programming Beginner Guide [[Link]](https://www.youtube.com/watch?v=YtDXX9l8yGk&t=2008s&ab_channel=MicrosoftLearnStudentAmbassadors-Bangladesh)
