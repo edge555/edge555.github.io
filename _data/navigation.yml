@@ -3,20 +3,20 @@ main:
   - title: "Home"
     url: /
 
+  - title: "Activities"
+    url: /activities/   
+
   - title: "CV"
     url: /cv/
 
   - title: "Research Works"
     url: /research-works/
-        
-  - title: "Publications"
-    url: /publications/ 
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Academic"
+    url: /academic/    
  
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+   # url: /year-archive/
 
   
     
