@@ -15,6 +15,9 @@ main:
   - title: "Academic"
     url: /academic/    
  
+  - title: "Programming"
+    url: /programming/  
+
   #- title: "Blog Posts"
    # url: /year-archive/
 
