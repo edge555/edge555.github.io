@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<h1>Publications</h1>
+<div style="border: 2px solid #2c3e50; 
+            padding: 10px; 
+            background-color: #f4f4f4;
+            width: 100%;
+            text-align: center;
+            box-sizing: border-box;">
+    <h1>Publications</h1>
+</div>
 
 <span> My research works and interest includes <b>NLP, LLM, GenAI</b> Here are some of my previous works,<span>
 <!-- Publications-->
@@ -42,22 +49,32 @@ redirect_from:
 
 ---------
 <!-- Projects-->
-<h1>Projects</h1>
-<div style="white-space: pre-line;">
-    <b>Rasa Chatbot</b>
-    Completed on: September, 2021
-    <i>Rasa, NER</i>
-
-    An implementation of customer query chatbot using Rasa. The data is safe as it can be run locally. It can be used to querying about products of a E-commerce website.
-    <a href="https://github.com/edge555/Rasa-Chatbot"> Github Link</a> 
+<div style="border: 2px solid #2c3e50; 
+            padding: 10px; 
+            background-color: #f4f4f4;
+            width: 100%;
+            text-align: center;
+            box-sizing: border-box;">
+    <h1>Projects</h1>
+</div>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+    <i class="fa-brands fa-uncharted"></i>
+    <b style="font-size: 1.3em; color: #2c3e50;">Rasa Chatbot</b><br>
+    <span style="font-size: 1em; color: #34495e;">Completed on: September, 2021</span><br>
+    <i style="font-size: 1em; color: #7f8c8d;">Rasa, NER</i><br>
+    <p style="font-size: 1em; color: #2c3e50;">
+        An implementation of a customer query chatbot using Rasa. The data is safe as it can be run locally. It can be used to query about products on an E-commerce website.
+        <a href="https://github.com/edge555/Rasa-Chatbot" style="font-size: 1em; color: #2980b9; text-decoration: none;">Github Link</a>
+    </p>
 </div>
 
-
-<div style="white-space: pre-line;">
-    <b>Natural Language Generation</b>
-    Completed on: July, 2021
-    <i>T5 Model, PyTorch</i>
-
-    An implementation of Natural Language Generation using T5 model and Pytorch. The whole process can be run locally.
-    <a href="https://github.com/edge555/T5-NLG-Demo"> Github Link</a> 
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+    <i class="fa-brands fa-uncharted"></i>
+    <b style="font-size: 1.3em; color: #2c3e50;">Natural Language Generation</b><br>
+    <span style="font-size: 1em; color: #34495e;">Completed on: July, 2021</span><br>
+    <i style="font-size: 1em; color: #7f8c8d;">T5 Model, PyTorch</i><br>
+    <p style="font-size: 1em; color: #2c3e50;">
+        An implementation of Natural Language Generation using T5 model and Pytorch. The whole process can be run locally.<br>
+      <a href="https://github.com/edge555/T5-NLG-Demo"> Github Link</a> 
+    </p>
 </div>
