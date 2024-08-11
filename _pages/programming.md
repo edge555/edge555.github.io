@@ -27,8 +27,6 @@ Total <b><u>3900+</u></b> problems solved across all <a href="https://github.com
             text-align: center;
             box-sizing: border-box;">
     <h1>Participations</h1>
-    
-
 </div>
 ### Inter University Programming Contest (IUPC)
 <span style="color:blue">BUET</span> IUPC '19, 
@@ -54,4 +52,4 @@ Total <b><u>3900+</u></b> problems solved across all <a href="https://github.com
     <h1>Honor and Awards</h1>
 </div>
 * Advanced to Round 2 of Meta Hacker Cup 2022
-* 4th place EDU IUP '20
+* 4th place EDU IUPC '20
