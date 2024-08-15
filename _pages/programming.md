@@ -13,7 +13,8 @@ author_profile: true
     <h1>Profile</h1>
 </div>
 <p>
-<strong>Codeforces</strong>: Maximum Rank <u>Expert</u>, Rating 1638<br>
+<strong>Codeforces</strong>: Maximum Rank <u>Expert</u>, Rating 1638 <a href="https://codeforces.com/profile/edge555">Link</a><br>
+<strong>LeetCode</strong>: 660+ problems solved. <a href="https://leetcode.com/u/edge555">Link</a><br>
 <strong>Codechef</strong>: Maximum Rating 1850, ⭐⭐⭐⭐<br>
 <strong>Hackerrank</strong>: Gold Badge in problem solving<br>
 Total <b><u>3900+</u></b> problems solved across all <a href="https://github.com/edge555/Online-Judge-Solves">online judges</a>
