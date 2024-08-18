@@ -16,7 +16,8 @@ author_profile: true
 
 Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 * **CGPA: 3.081** [*out of 4.00*]
-* **Thesis:** [ReportByte: An advanced business analytics system](../files/Research/ReportByte.pdf) 
+* **Thesis:** [ReportByte: An advanced business analytics system](../files/Research/ReportByte.pdf)  
+  *An advanced business analytic and assistant system which provides four kinds of services <b>(Chatbot, Question answering bot, Data visualization tool, and Predictive data analysis tool)</b> built with machine learning and artificial intelligence tools.*
 * **Supervisor:** [Md Moinul Hoque](https://scholar.google.com/citations?user=-2fbkokAAAAJ&hl=en), Associate Professor, Department of CSE, AUST
 
 <div style="border: 2px solid #2c3e50; 
@@ -36,8 +37,8 @@ Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 
 ### Competitive Programming Trainer
 CSE Department (AUST), Dhaka, Bangladesh.
-* Taught students advanced **data structures and alogrithms** of competitive Programming
-* Tranined few teams for National programming contest
+* Taught students advanced **data structures and algorithms** of competitive Programming
+* Trained few teams for National programming contest
 
 ### Programming Workshop Conductor
 * System Design Roadmap [[Link]](https://www.facebook.com/amarischool24/videos/915637786668317)

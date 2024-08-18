@@ -18,7 +18,8 @@ redirect_from:
     <h1>Publications</h1>
 </div>
 
-<span> My research works and interest includes <b>NLP, LLM, GenAI</b> Here are some of my previous works,<span>
+<span>My research work and interests include <b>NLP, LLM, GenAI</b>. Here are some of my previous works:</span>
+
 <!-- Publications-->
 
 {% if site.author.googlescholar %}
@@ -27,11 +28,11 @@ redirect_from:
 
 <i class='far fa-file'></i> [<span style="color:Blue;font-family:Trebuchet MS;">**Invariant Scattering Transform for Medical Imaging**</span>]<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors: </strong> Nafisa Labiba Ishrat Huda, Angona Biswas, MD Abdullah Al Nasim, Md. Fahim Rahman, <b>Shoaib Ahmed</b></font>
+	<font size="3"><strong>Authors:</strong> Nafisa Labiba Ishrat Huda, Angona Biswas, MD Abdullah Al Nasim, Md. Fahim Rahman, <b>Shoaib Ahmed</b></font>
 </span>
 <br>
 
-[<a style="color:red;" href="#" onclick="$('#neucom_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2307.04771)][<a style="color:red;" href="#" onclick="$('#neucom_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#neucom_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style="color:red;"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2307.04771)][<a style="color:red;" href="#" onclick="$('#neucom_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="neucom_bib" class="bib" style="display:none;">
 	<pre>
@@ -40,9 +41,9 @@ redirect_from:
 </div>
 
 <div id="neucom_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+	<p style="text-align:justify; color:black; font-family:Monaco;"> 
 		<font size="3">
-			Invariant scattering transform introduces new area of research that merges the signal processing with deep learning for computer vision. Nowadays, Deep Learning algorithms are able to solve a variety of problems in medical sector. Medical images are used to detect diseases brain cancer or tumor, Alzheimer's disease, breast cancer, Parkinson's disease and many others. During pandemic back in 2020, machine learning and deep learning has played a critical role to detect COVID-19 which included mutation analysis, prediction, diagnosis and decision making. Medical images like X-ray, MRI known as magnetic resonance imaging, CT scans are used for detecting diseases. There is another method in deep learning for medical imaging which is scattering transform. It builds useful signal representation for image classification. It is a wavelet technique; which is impactful for medical image classification problems. This research article discusses scattering transform as the efficient system for medical image analysis where it's figured by scattering the signal information implemented in a deep convolutional network. A step by step case study is manifested at this research work.
+			Invariant scattering transform introduces a new area of research that merges signal processing with deep learning for computer vision. Nowadays, deep learning algorithms can solve various problems in the medical sector. Medical images are used to detect diseases such as brain cancer or tumor, Alzheimer's disease, breast cancer, Parkinson's disease, and many others. During the pandemic in 2020, machine learning and deep learning played a critical role in detecting COVID-19, which included mutation analysis, prediction, diagnosis, and decision-making. Medical images like X-rays, MRI (magnetic resonance imaging), and CT scans are used for detecting diseases. Another method in deep learning for medical imaging is scattering transform. It builds useful signal representations for image classification. It is a wavelet technique that is impactful for medical image classification problems. This research article discusses scattering transform as an efficient system for medical image analysis, where it's figured by scattering the signal information implemented in a deep convolutional network. A step-by-step case study is manifested in this research work.
 		</font>
 	</p>
 </div>
@@ -60,21 +61,21 @@ redirect_from:
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
     <i class="fa-brands fa-uncharted"></i>
     <b style="font-size: 1.3em; color: #2c3e50;">Rasa Chatbot</b><br>
-    <span style="font-size: 1em; color: #34495e;">Completed on: September, 2021</span><br>
+    <span style="font-size: 1em; color: #34495e;">Completed on: September 2021</span><br>
     <i style="font-size: 1em; color: #7f8c8d;">Rasa, NER</i><br>
     <p style="font-size: 1em; color: #2c3e50;">
         An implementation of a customer query chatbot using Rasa. The data is safe as it can be run locally. It can be used to query about products on an E-commerce website.
-        <a href="https://github.com/edge555/Rasa-Chatbot" style="font-size: 1em; color: #2980b9; text-decoration: none;">Github Link</a>
+        <a href="https://github.com/edge555/Rasa-Chatbot" style="font-size: 1em; color: #2980b9; text-decoration: none;">GitHub Link</a>
     </p>
 </div>
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
     <i class="fa-brands fa-uncharted"></i>
     <b style="font-size: 1.3em; color: #2c3e50;">Natural Language Generation</b><br>
-    <span style="font-size: 1em; color: #34495e;">Completed on: July, 2021</span><br>
+    <span style="font-size: 1em; color: #34495e;">Completed on: July 2021</span><br>
     <i style="font-size: 1em; color: #7f8c8d;">T5 Model, PyTorch</i><br>
     <p style="font-size: 1em; color: #2c3e50;">
-        An implementation of Natural Language Generation using T5 model and Pytorch. The whole process can be run locally.<br>
-      <a href="https://github.com/edge555/T5-NLG-Demo"> Github Link</a> 
+        An implementation of Natural Language Generation using the T5 model and PyTorch, trained with the WebNLG 2020 dataset. The project can be run locally.
+        <a href="https://github.com/edge555/T5-NLG-Demo" style="font-size: 1em; color: #2980b9; text-decoration: none;">GitHub Link</a>
     </p>
 </div>
