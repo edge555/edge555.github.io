@@ -11,7 +11,7 @@ Greetings!
 </p>
 
 <p>My research works and interests covering areas like <b>LLM, GenAI, Healthcare, Virtual Reality and AI for safety</b>. Please reach out if you have anything to discuss or want to work together.</p> 
-For additional information, please see the [CV](https://edge555.github.io/cv/) and [Activities](https://edge555.github.io/activities/).
+For additional information, please see the [CV](https://edge555.github.io/cv/) and [Academic](https://edge555.github.io/academic/).
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
