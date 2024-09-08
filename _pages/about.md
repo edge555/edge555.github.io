@@ -7,11 +7,12 @@ redirect_from:
 ---
 Greetings!
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am Shoaib Ahmed, currently working as a Software Enginner at <a href="https://www.cefalo.com/en/">Cefalo</a>. I have completed B.Sc. in Computer Science and Engineering from <a href="https://aust.edu/"> Ahsanullah University of Science and Technology</a> (AUST), Dhaka, Bangladesh. My career goal is to work in leading AI research laboratories and build innovative solutions. <span style="color:red;">I am seeking a Ph.D. position for the Fall 2025</span>.
+<p style="text-align:justify; color:black; font-family:Georgia">I am Shoaib Ahmed, currently working as a Software Enginner at <a href="https://www.cefalo.com/en/">Cefalo</a> with more than 2 years of software development experience. I have completed B.Sc. in Computer Science and Engineering from <a href="https://aust.edu/"> Ahsanullah University of Science and Technology</a> (AUST), Dhaka, Bangladesh. My career goal is to work in leading AI research laboratories and build innovative solutions. <br>
+<span style="color:red;">I am seeking a M.Sc. or Ph.D. position for the Fall 2025</span>.
 </p>
 
 <p>My research works and interests covering areas like <b>LLM, GenAI, Healthcare, Virtual Reality and AI for safety</b>. Please reach out if you have anything to discuss or want to work together.</p> 
-For additional information, please see the [CV](https://edge555.github.io/cv/) and [Academic](https://edge555.github.io/academic/).
+For additional information, please see the [CV](https://edge555.github.io/cv/) and [Research Works](https://edge555.github.io/research-works/).
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
