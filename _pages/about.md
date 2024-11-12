@@ -11,7 +11,7 @@ Greetings!
 <span style="color:red;">I am seeking a M.Sc. or Ph.D. position for the Fall 2025</span>.
 </p>
 
-<p>My research works and interests covering areas like <b>LLM, GenAI, Healthcare, Virtual Reality and AI for safety</b>. Please reach out if you have anything to discuss or want to work together.</p> 
+<p>My research works and interests covering areas like <b>Computer Vision, LLM, GenAI and Virtual Reality</b>. Please reach out if you have anything to discuss or want to work together.</p> 
 For additional information, please see the [CV](https://edge555.github.io/cv/) and [Research Works](https://edge555.github.io/research-works/).
 <head>
     <meta charset="UTF-8">

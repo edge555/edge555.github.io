@@ -5,12 +5,16 @@ author_profile: true
 title: "Activities"
 ---
 
+## 2024
+* <span style="color:Blue"> [Nov 11] </span> - Ongoing research about Computer Vision
+
 ## 2023
 ---------
 * <span style="color:Blue"> [Jul 12] </span> - Published Paper [Invariant Scattering Transform for Medical Imaging](https://arxiv.org/pdf/2307.04771)
 
 ## 2022
 ---------
+* <span style="color:Blue"> [Sep 22] </span> - Advanced to Round 2 of Meta Hacker Cup
 * <span style="color:Blue"> [May 17] </span> - Completed academic thesis work [ReportByte: An advanced business analytics system](../files/Research/ReportByte.pdf) 
 * <span style="color:Blue"> [Mar 26] </span> - Participated in Google Codejam '22
 

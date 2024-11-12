@@ -18,13 +18,11 @@ redirect_from:
     <h1>Publications</h1>
 </div>
 
-<span>My research work and interests include <b>NLP, LLM, GenAI</b>. Here are some of my previous works:</span>
+<span>My research work and interests include <b>Computer Vision, NLP, GenAI and Virtual Reality</b>. Here are some of my previous works:</span>
 
 <!-- Publications-->
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
-{% endif %}
+
 
 <i class='far fa-file'></i> [<span style="color:Blue;font-family:Trebuchet MS;">**Invariant Scattering Transform for Medical Imaging**</span>]<br>
 <span style="color:black;font-family:Georgia">
@@ -47,7 +45,9 @@ redirect_from:
 		</font>
 	</p>
 </div>
-
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
+{% endif %}
 ---------
 <!-- Projects-->
 <div style="border: 2px solid #2c3e50; 
