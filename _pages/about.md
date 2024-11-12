@@ -11,7 +11,7 @@ Greetings!
 <span style="color:red;">I am seeking a M.Sc. or Ph.D. position for the Fall 2025</span>.
 </p>
 
-<p>My research works and interests covering areas like <b>Computer Vision, LLM, GenAI and Virtual Reality</b>. Please reach out if you have anything to discuss or want to work together.</p> 
+<p>My research works and interests covering areas like <b>Computer Vision, NLP, GenAI and Virtual Reality</b>. Please reach out if you have anything to discuss or want to work together.</p> 
 For additional information, please see the [CV](https://edge555.github.io/cv/) and [Research Works](https://edge555.github.io/research-works/).
 <head>
     <meta charset="UTF-8">
@@ -39,14 +39,14 @@ For additional information, please see the [CV](https://edge555.github.io/cv/) a
     </style>
 </head>
 <body>
-  <h3>My Contact Informations</h3>
+  <h3>Contact Informations</h3>
   <div class="contact-icons">
       <a href="https://www.linkedin.com/in/edge555" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
       <a href="mailto:ahmed.shoaib1729@gmail.com"><i class="fas fa-envelope"></i> Email</a>
       <a href="https://github.com/edge555" target="_blank"><i class="fab fa-github"></i> GitHub</a>
       <a href="https://twitter.com/shoaib__ahmed__" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
   </div>
-  <h3>My Programming Profiles</h3>
+  <h3>Programming Profiles</h3>
     <div class="programming-icons">
         <a href="https://codeforces.com/profile/edge555" target="_blank"><i class="fas fa-bolt"></i> Codeforces</a>
         <a href="https://leetcode.com/edge555" target="_blank"><i class="fas fa-code"></i> LeetCode</a>
