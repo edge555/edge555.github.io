@@ -8,13 +8,13 @@ redirect_from:
 Greetings!
 
 <p style="text-align:justify; color:black; font-family:Georgia">I am Shoaib Ahmed, currently working as a Software Enginner at <a href="https://www.cefalo.com/en/">Cefalo</a> with more than 2.5 years of solid software development experience. I have completed B.Sc. in Computer Science and Engineering from <a href="https://aust.edu/"> Ahsanullah University of Science and Technology</a> (AUST), Dhaka, Bangladesh. My career goal is to work in leading AI research laboratories and build innovative solutions. <br>
-<span style="color:red;">I am seeking a funded M.Sc. or Ph.D. position for the Fall 2025 or Spring 2026</span>.
+<span style="color:red;">I am seeking a funded Ph.D. position for the Spring 2026 or Fall 2026</span>.
 </p>
 
 <p>My research works and interests covering areas like <b>Computer Vision, LLM, GenAI and Virtual Reality</b>. Please reach out if you have anything to discuss or want to work together.</p> 
 
 <p> I have taken both IELTS and GRE exam. The scores are currently valid. <br>
-<u>GRE</u>: Total <b>313</b> (Quant 163, Verbal 150)<br>
+<u>GRE</u>: Total <b>313</b> (Quant 163, Verbal 150, AWA 3.5)<br>
 <u>IELTS</u>: Overall band 7 (Listening 7.0, Reading 7.0, Speaking 6.5, Writing 6.0)
 </p>
 For additional information, please see the [CV](https://edge555.github.io/cv/) and [Research Works](https://edge555.github.io/research-works/).

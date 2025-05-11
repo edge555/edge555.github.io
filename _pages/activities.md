@@ -5,6 +5,9 @@ author_profile: true
 title: "Activities"
 ---
 
+## 2025
+* <span style="color:Blue"> [Apr 30] </span> - Pariticipated in Poridhi AI Hackathon 2025
+
 ## 2024
 * <span style="color:Blue"> [Nov 11] </span> - Ongoing research about Computer Vision
 
