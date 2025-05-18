@@ -1,0 +1,26 @@
+{% comment %}
+Activity Template
+Usage:
+{% include activity_template.html 
+    year="2025"
+    date="Apr 30"
+    title="Activity Title"
+    link="optional-link-url"
+    position="left" %}
+{% endcomment %}
+
+<div class="year-container">
+    <div class="year-title">{{ include.year }}</div>
+    <div class="activity-item {{ include.position }}">
+        <div class="activity-content">
+            <div class="activity-date">{{ include.date }}</div>
+            <div class="activity-title">
+                {% if include.link %}
+                    <a href="{{ include.link }}">{{ include.title }}</a>
+                {% else %}
+                    {{ include.title }}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div> 
