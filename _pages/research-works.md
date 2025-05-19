@@ -178,7 +178,7 @@ redirect_from:
     </div>
 
     <div class="research-interests">
-        <span>My research work and interests include <b>Computer Vision, NLP, GenAI and Virtual Reality</b>. Here are some of my previous works:</span>
+        <span>My research work and interests include <b>Computer Vision, NLP, Software Engineering and Virtual Reality</b>. Here are some of my previous works:</span>
     </div>
 
     <!-- Publications -->
