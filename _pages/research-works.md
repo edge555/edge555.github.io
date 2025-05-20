@@ -34,12 +34,12 @@ redirect_from:
 
     /* Publications specific styles */
     .publications-header {
-        background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+        background: linear-gradient(135deg, #1a4b6e 0%, #3498db 100%);
     }
 
     /* Projects specific styles */
     .projects-header {
-        background: linear-gradient(135deg, #8e44ad 0%, #9b59b6 100%);
+        background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
     }
 
     /* Research interests section */
@@ -62,6 +62,17 @@ redirect_from:
         transition: all 0.3s ease;
         animation: slideIn 0.5s ease;
         border-left: 5px solid #3498db;
+        position: relative;
+        overflow: hidden;
+    }
+    .publication-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 4px;
+        background: linear-gradient(90deg, #1a4b6e 0%, #3498db 100%);
     }
     .publication-card:hover {
         transform: translateY(-5px);
@@ -77,7 +88,18 @@ redirect_from:
         box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         transition: all 0.3s ease;
         animation: slideIn 0.5s ease;
-        border-left: 5px solid #9b59b6;
+        border-left: 5px solid #2c3e50;
+        position: relative;
+        overflow: hidden;
+    }
+    .project-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 4px;
+        background: linear-gradient(90deg, #2c3e50 0%, #34495e 100%);
     }
     .project-card:hover {
         transform: translateY(-5px);
@@ -86,7 +108,7 @@ redirect_from:
 
     /* Title styles */
     .publication-title {
-        color: #2c3e50;
+        color: #1a4b6e;
         font-size: 1.4em;
         font-weight: bold;
         margin-bottom: 10px;
@@ -136,12 +158,12 @@ redirect_from:
         margin: 10px 0;
     }
     .project-link {
-        color: #9b59b6;
+        color: #2c3e50;
         text-decoration: none;
         transition: color 0.3s ease;
     }
     .project-link:hover {
-        color: #8e44ad;
+        color: #34495e;
     }
 
     /* Animations */
