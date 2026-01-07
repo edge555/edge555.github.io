@@ -70,9 +70,9 @@ redirect_from:
 <div class="profile-section">
   <p>Greetings!</p>
 
-  <p>I am Shoaib Ahmed, currently working as a Software Enginner at <a href="https://www.cefalo.com/en/">Cefalo</a> with more than 2.5 years of solid software development experience. I have completed B.Sc. in Computer Science and Engineering from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> (AUST), Dhaka, Bangladesh. My career goal is to work in leading AI research laboratories and build innovative solutions.</p>
+  <p>I am Shoaib Ahmed, currently working as a Software Enginner at <a href="https://www.cefalo.com/en/">Cefalo</a> with more than 4 years of solid software development experience. I have completed B.Sc. in Computer Science and Engineering from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> (AUST), Dhaka, Bangladesh. My career goal is to work in leading AI research laboratories and build innovative solutions.</p>
   
-  <p><span class="highlight">I am seeking a funded Ph.D. position for the Spring 2026 or Fall 2026</span>.</p>
+  <p><span class="highlight">I am seeking a funded M.Sc. or Ph.D. position for the Spring 2026 or Fall 2026</span>.</p>
 
   <p>My research works and interests covering areas like <b>Computer Vision, LLM, GenAI and Virtual Reality</b>. Please reach out if you have anything to discuss or want to work together.</p>
 </div>
